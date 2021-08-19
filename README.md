@@ -1,14 +1,15 @@
 
 ## Xinmiao Zhao(Simon)
 
-![Hobbies](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.leadsplease.com%2Fmailing-lists%2Fconsumer%2Fhobbies-and-interests-mailing-list&psig=AOvVaw2hVi1TXW8i2uLxezRbtocV&ust=1629343052669000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLi3rojOufICFQAAAAAdAAAAABAD)
+![hobbies](https://user-images.githubusercontent.com/89116490/129995000-89cc0f08-cdfa-4a0e-8cb6-1e3c75210e3c.jpg)
 - video games
 - soccer 
 - investment 
 
 ## Internship Experience
-![Discover](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmergr.com%2Fdiscover-financial-services-acquisitions&psig=AOvVaw1171mOxmEt9pDqxzBzI7Gg&ust=1629343347943000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKj9tY7PufICFQAAAAAdAAAAABAx)
+![image](https://user-images.githubusercontent.com/89116490/129996684-1f2ad98d-9452-4ad7-93e3-d5387ca1ef6b.png)
 - Running Application locally
 - FTPAR Automation
 - Creating a website for Discover innovation event
 
+![Tools](https://user-images.githubusercontent.com/89116490/129995036-89e10ccf-cf85-4445-a149-537cdd2519fb.PNG)
